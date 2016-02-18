@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.Pasantia" table="PASANTIA">
+    <!-- 0 -->
+    <id column="idPasantia" name="idPasantia">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="titulo" name="titulo" not-null="true" type="string"/>
+    <!-- 2 -->
+    <many-to-one column="tutor_academico" name="tutor_academico" not-null="true"/>
+    <!-- 3 -->
+    <many-to-one column="tutor_industrial" name="tutor_industrial" not-null="true"/>
+    <!-- 4 -->
+    <many-to-one column="proyecto" name="proyecto" not-null="true" unique="true"/>
+    <!-- 5 -->
+    <many-to-one column="estatus" name="estatus" not-null="true"/>
+    <!-- 6 -->
+    <property column="resumen" name="resumen" not-null="true" type="text"/>
+    <!-- 7 -->
+    <property column="objetivos_generales" name="objetivos_generales" not-null="true" type="text"/>
+    <!-- 8 -->
+    <property column="ano" name="ano" not-null="true" type="integer"/>
+    <!-- 9 -->
+    <property column="evaluacion_tutor_academico" name="evaluacion_tutor_academico" not-null="false" type="string" />
+  </class>
+</hibernate-mapping>

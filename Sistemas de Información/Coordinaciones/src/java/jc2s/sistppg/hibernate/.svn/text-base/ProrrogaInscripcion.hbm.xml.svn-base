@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.ProrrogaInscripcion" table="PRORROGAINSCRIPCION">
+    <!-- 0 -->
+    <id column="idProrrogaInscripcion" name="idProrrogaInscripcion">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <many-to-one column="prorroga" name="prorroga" not-null="true" unique="true"/>
+  </class>
+</hibernate-mapping>

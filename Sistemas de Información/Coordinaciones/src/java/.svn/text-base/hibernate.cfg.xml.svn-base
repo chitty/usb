@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>
+        <!-- Database connection settings for postgresql -->
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/sistppg</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">postgres</property>
+
+        <!-- Enable Hibernate's automatic session context management -->
+        <property name="current_session_context_class">thread</property>
+
+        <!-- Disable the second-level cache  -->
+        <property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
+
+        <!-- Echo all executed SQL to stdout -->
+        <property name="show_sql">true</property>
+
+        <!-- Uncomment this line to drop and re-create the database schema on startup 
+        <property name="hbm2ddl.auto">create</property>
+        -->
+          
+        <mapping resource="jc2s/sistppg/hibernate/Actividad.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/ActividadFase.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Area.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/AreaProfesor.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/AreaProyectoDeGrado.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Carrera.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Ciudad.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/CiudadPreinscripcion.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Departamento.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/DepartamentoArea.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/DocumentosRequeridos.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Empresa.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/EmpresaSolicitaPasante.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/EstatusPasantia.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/EstatusProrroga.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Estudiante.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/EstudianteRealizaProyecto.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Etapa.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Fase.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/JuradoProyecto.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Pais.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/PaisPreinscripcion.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Pasantia.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/PasantiaCorta.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/PasantiaIntermedia.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/PasantiaLarga.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/PeriodoPasantiaIntermedia.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/PeriodoPasantiaLarga.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Preinscripcion.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/PrimeraEtapa.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Profesor.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Prorroga.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/ProrrogaEvaluacion.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/ProrrogaInscripcion.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Proyecto.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/ProyectoDeGrado.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/SegundaEtapa.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/TerceraEtapa.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Trimestre.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/TutorIndustrial.hbm.xml"/>
+        <mapping resource="jc2s/sistppg/hibernate/Usuario.hbm.xml"/>
+
+
+
+    </session-factory>
+
+</hibernate-configuration>

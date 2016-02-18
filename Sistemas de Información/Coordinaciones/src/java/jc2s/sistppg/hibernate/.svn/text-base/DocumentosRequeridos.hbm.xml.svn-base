@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.DocumentosRequeridos" table="DOCUMENTOSREQUERIDOS">
+    <!-- 0 -->
+    <id column="idDocumentosRequeridos" name="idDocumentosRequeridos">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <many-to-one column="pasantia" name="pasantia" not-null="true" unique="true"/>
+    <!-- 2 -->
+    <property column="carta_aceptacion_tutor_academico" name="carta_aceptacion_tutor_academico" type="string"/>
+    <!-- 3 -->
+    <property column="carta_aceptacion_tutor_industrial" name="carta_aceptacion_tutor_industrial" type="string"/>
+    <!-- 4 -->
+    <property column="carta_retiro_tutor_academico" name="carta_retiro_tutor_academico" type="string"/>
+    <!-- 5 -->
+    <property column="carta_retiro_tutor_industrial" name="carta_retiro_tutor_industrial" type="string"/>
+    <!-- 6 -->
+    <property column="carta_retiro_estudiante" name="carta_retiro_estudiante" type="string"/>
+  </class>
+</hibernate-mapping>

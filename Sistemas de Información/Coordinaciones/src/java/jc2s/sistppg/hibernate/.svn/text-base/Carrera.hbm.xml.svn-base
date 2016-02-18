@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.Carrera" table="CARRERA">
+    <!-- 0 -->
+    <id column="idCarrera" name="idCarrera">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="nombre" name="nombre" type="string"/>
+    <!-- 2 -->
+    <property column="email" name="email" not-null="true" type="string"/>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,7 @@
+#
+# shell script para usu
+#
+#! /bin/bash
+
+java usu $*
+exit 0

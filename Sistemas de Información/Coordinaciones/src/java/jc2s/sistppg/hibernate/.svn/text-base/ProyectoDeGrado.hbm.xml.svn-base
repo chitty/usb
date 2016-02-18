@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.ProyectoDeGrado" table="PROYECTODEGRADO">
+    <!-- 0 -->
+    <id column="idProyectoDeGrado" name="idProyectoDeGrado">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="codigo" name="codigo" not-null="true" type="string" unique="true"/>
+    <!-- 2 -->
+    <property column="nombre" name="nombre" type="string"/>
+    <!-- 3 -->
+    <many-to-one column="profesor" name="profesor" not-null="true"/>
+    <!-- 4 -->
+    <property column="recursos" name="recursos" not-null="true" type="text"/>
+    <!-- 5 -->
+    <property column="duracion_recursos" name="duracion_recursos" not-null="true" type="text"/>
+    <!-- 6 -->
+    <property column="puntos_de_interes" name="puntos_de_interes" not-null="true" type="text"/>
+    <!-- 7 -->
+    <many-to-one column="proyecto" name="proyecto" not-null="true"/>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/61/sistppg70/src/java/ve/usb/cohesion/runtime
+END
+HibernateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/61/sistppg70/src/java/ve/usb/cohesion/runtime/HibernateUtil.java
+END
+Timestamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/sistppg70/src/java/ve/usb/cohesion/runtime/Timestamp.java
+END
+CohesionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/61/sistppg70/src/java/ve/usb/cohesion/runtime/CohesionAction.java
+END
+LocalDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/sistppg70/src/java/ve/usb/cohesion/runtime/LocalDate.java
+END
+Auditable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/sistppg70/src/java/ve/usb/cohesion/runtime/Auditable.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/sistppg70/src/java/ve/usb/cohesion/runtime/Pair.java
+END

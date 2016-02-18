@@ -1,0 +1,7 @@
+#
+# shell script para aute
+#
+#! /bin/bash
+
+java aute $*
+exit 0

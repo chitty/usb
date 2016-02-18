@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/148/sistppg70/src/java/jc2s/sistppg
+END
+CohesionActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114/sistppg70/src/java/jc2s/sistppg/CohesionActor.java
+END
+AccionesGenerarMencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/147/sistppg70/src/java/jc2s/sistppg/AccionesGenerarMencion.java
+END
+F_Inicio_Sesion_externo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Inicio_Sesion_externo.java
+END
+F_Perfil_Estudiante.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/136/sistppg70/src/java/jc2s/sistppg/F_Perfil_Estudiante.java
+END
+AccionesC_Solicitar_Prorroga_Inscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/141/sistppg70/src/java/jc2s/sistppg/AccionesC_Solicitar_Prorroga_Inscripcion.java
+END
+AccionesC_Gestionar_PG_Estudiante.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/75/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_PG_Estudiante.java
+END
+F_Registro_Empresa.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/F_Registro_Empresa.java
+END
+Acciones_tooltips.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/Acciones_tooltips.java
+END
+AccionesC_Consultar_PG_Est.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/95/sistppg70/src/java/jc2s/sistppg/AccionesC_Consultar_PG_Est.java
+END
+F_Jurado.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/121/sistppg70/src/java/jc2s/sistppg/F_Jurado.java
+END
+AccionesC_Gestionar_Jurados.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/142/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_Jurados.java
+END
+AccionesC_Sesion_Coordinador.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/AccionesC_Sesion_Coordinador.java
+END
+AccionesC_Sesion_Estudiante.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/80/sistppg70/src/java/jc2s/sistppg/AccionesC_Sesion_Estudiante.java
+END
+F_Periodo_Pasantia_Larga.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/sistppg70/src/java/jc2s/sistppg/F_Periodo_Pasantia_Larga.java
+END
+F_Inicio_Sesion.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Inicio_Sesion.java
+END
+F_Prorroga_Inscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Prorroga_Inscripcion.java
+END
+F_Pais.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/95/sistppg70/src/java/jc2s/sistppg/F_Pais.java
+END
+F_Perfil_Profesor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Perfil_Profesor.java
+END
+AccionesGenerarProrrogaInscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/141/sistppg70/src/java/jc2s/sistppg/AccionesGenerarProrrogaInscripcion.java
+END
+F_Sinai.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/122/sistppg70/src/java/jc2s/sistppg/F_Sinai.java
+END
+F_Estatus_Prorroga.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/F_Estatus_Prorroga.java
+END
+AccionesC_Consultar_Pasantia_Est.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/82/sistppg70/src/java/jc2s/sistppg/AccionesC_Consultar_Pasantia_Est.java
+END
+F_Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Area.java
+END
+AccionesC_Gestionar_Preinscripciones_cctds.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_Preinscripciones_cctds.java
+END
+AccionesC_Inicio_Sesion_T_industrial.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/145/sistppg70/src/java/jc2s/sistppg/AccionesC_Inicio_Sesion_T_industrial.java
+END
+F_Etapa_PG.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/80/sistppg70/src/java/jc2s/sistppg/F_Etapa_PG.java
+END
+F_Periodo_Pasantia_Intermedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/sistppg70/src/java/jc2s/sistppg/F_Periodo_Pasantia_Intermedia.java
+END
+AccionesC_Consultar_Proyectos.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/142/sistppg70/src/java/jc2s/sistppg/AccionesC_Consultar_Proyectos.java
+END
+AccionesC_Gestionar_proyectos_Estudiante.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/85/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_proyectos_Estudiante.java
+END
+AccionesC_Solicitar_pasantes.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/AccionesC_Solicitar_pasantes.java
+END
+F_Ciudad.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/119/sistppg70/src/java/jc2s/sistppg/F_Ciudad.java
+END
+F_Prorroga_Evaluacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Prorroga_Evaluacion.java
+END
+AccionesC_Preinscripciones_CCTDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/AccionesC_Preinscripciones_CCTDS.java
+END
+F_Actividad_Etapa.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Actividad_Etapa.java
+END
+AccionesC_Gestionar_Preinscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/139/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_Preinscripcion.java
+END
+AccionesC_Generar_Inscripcion_Pasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/127/sistppg70/src/java/jc2s/sistppg/AccionesC_Generar_Inscripcion_Pasantia.java
+END
+AccionesC_Pasantias_CCTDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/146/sistppg70/src/java/jc2s/sistppg/AccionesC_Pasantias_CCTDS.java
+END
+F_Inscripcion_PG.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/80/sistppg70/src/java/jc2s/sistppg/F_Inscripcion_PG.java
+END
+AccionesC_Perfil_Estudiante.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/136/sistppg70/src/java/jc2s/sistppg/AccionesC_Perfil_Estudiante.java
+END
+AccionesC_Gestionar_PG_Prof.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/91/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_PG_Prof.java
+END
+F_Solicitud_Pasante.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Solicitud_Pasante.java
+END
+F_Tutor_Industrial.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Tutor_Industrial.java
+END
+AccionesC_Solicitar_Prorroga_Evaluacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/147/sistppg70/src/java/jc2s/sistppg/AccionesC_Solicitar_Prorroga_Evaluacion.java
+END
+F_Trimestre.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/90/sistppg70/src/java/jc2s/sistppg/F_Trimestre.java
+END
+F_Carrera.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/sistppg70/src/java/jc2s/sistppg/F_Carrera.java
+END
+AccionesC_Sesion_Administrador.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/120/sistppg70/src/java/jc2s/sistppg/AccionesC_Sesion_Administrador.java
+END
+AccionesC_Sesion_CCTDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/134/sistppg70/src/java/jc2s/sistppg/AccionesC_Sesion_CCTDS.java
+END
+F_EvaluacionTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/145/sistppg70/src/java/jc2s/sistppg/F_EvaluacionTI.java
+END
+F_Actividad_Fase.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Actividad_Fase.java
+END
+AccionesC_gestionar_prorogas_cctds.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/140/sistppg70/src/java/jc2s/sistppg/AccionesC_gestionar_prorogas_cctds.java
+END
+F_Area2.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/119/sistppg70/src/java/jc2s/sistppg/F_Area2.java
+END
+AccionesC_Consultar_PG_propio.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/AccionesC_Consultar_PG_propio.java
+END
+F_SinaiPG.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/131/sistppg70/src/java/jc2s/sistppg/F_SinaiPG.java
+END
+AccionesC_Inicio_Sesion.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/104/sistppg70/src/java/jc2s/sistppg/AccionesC_Inicio_Sesion.java
+END
+F_Fase_Pasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Fase_Pasantia.java
+END
+AccionesC_Empresa.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/AccionesC_Empresa.java
+END
+F_Inscripcion_Pasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/107/sistppg70/src/java/jc2s/sistppg/F_Inscripcion_Pasantia.java
+END
+AccionesC_Retiro_Pasantia_Est.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/AccionesC_Retiro_Pasantia_Est.java
+END
+AccionesC_Perfil_Profesor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/80/sistppg70/src/java/jc2s/sistppg/AccionesC_Perfil_Profesor.java
+END
+AccionesC_Gestionar_Pasantia_Prof.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/148/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_Pasantia_Prof.java
+END
+F_evaluar_intermedia_larga.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/148/sistppg70/src/java/jc2s/sistppg/F_evaluar_intermedia_larga.java
+END
+F_Estatus_Pasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/87/sistppg70/src/java/jc2s/sistppg/F_Estatus_Pasantia.java
+END
+AccionesGenerarCartaPostulacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/113/sistppg70/src/java/jc2s/sistppg/AccionesGenerarCartaPostulacion.java
+END
+ApplicationResource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/141/sistppg70/src/java/jc2s/sistppg/ApplicationResource.properties
+END
+AccionesC_Sesion_Profesor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/80/sistppg70/src/java/jc2s/sistppg/AccionesC_Sesion_Profesor.java
+END
+F_Departamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114/sistppg70/src/java/jc2s/sistppg/F_Departamento.java
+END
+AccionesGenerarSolicitudPasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/136/sistppg70/src/java/jc2s/sistppg/AccionesGenerarSolicitudPasantia.java
+END
+F_Retiro_Pasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/F_Retiro_Pasantia.java
+END
+AccionesC_Gestionar_Pasantias_Estudiante.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/85/sistppg70/src/java/jc2s/sistppg/AccionesC_Gestionar_Pasantias_Estudiante.java
+END
+F_Preinscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115/sistppg70/src/java/jc2s/sistppg/F_Preinscripcion.java
+END
+F_evaluar_corta.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/148/sistppg70/src/java/jc2s/sistppg/F_evaluar_corta.java
+END
+F_Mencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/147/sistppg70/src/java/jc2s/sistppg/F_Mencion.java
+END

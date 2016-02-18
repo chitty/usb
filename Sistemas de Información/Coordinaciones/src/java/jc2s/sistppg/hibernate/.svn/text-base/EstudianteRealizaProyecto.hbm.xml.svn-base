@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.EstudianteRealizaProyecto" table="ESTUDIANTEREALIZAPROYECTO">
+    <!-- 0 -->
+    <id column="idEstudianteRealizaProyecto" name="idEstudianteRealizaProyecto">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <many-to-one column="estudiante" name="estudiante" not-null="true"/>
+    <!-- 2 -->
+    <many-to-one column="proyecto" name="proyecto" not-null="true"/>
+  </class>
+</hibernate-mapping>

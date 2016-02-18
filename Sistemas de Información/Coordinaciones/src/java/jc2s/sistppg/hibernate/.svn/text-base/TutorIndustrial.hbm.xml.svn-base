@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.TutorIndustrial" table="TUTORINDUSTRIAL">
+    <!-- 0 -->
+    <id column="idTutorIndustrial" name="idTutorIndustrial">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="nombre" name="nombre" not-null="true" type="string"/>
+    <!-- 2 -->
+    <property column="cedula" name="cedula" not-null="true" type="string" unique="true"/>
+    <!-- 3 -->
+    <property column="email" name="email" not-null="true" type="string" unique="true"/>
+    <!-- 4 -->
+    <property column="telefono" name="telefono" type="string"/>
+    <!-- 5 -->
+    <many-to-one column="empresa" name="empresa"/>
+    <!-- 6 -->
+    <property column="departamento" name="departamento" not-null="true" type="string"/>
+    <!-- 7 -->
+    <property column="profesion" name="profesion" not-null="true" type="string"/>
+    <!-- 8 -->
+    <property column="direccion" name="direccion" not-null="true" type="text"/>
+    <!-- 9 -->
+    <property column="cargo" name="cargo" not-null="true" type="string"/>
+    <!-- 10 -->
+    <property column="login" name="login" not-null="true" type="string" unique="true"/>
+    <!-- 11 -->
+    <property column="password" name="password" not-null="true" type="string"/>
+  </class>
+</hibernate-mapping>

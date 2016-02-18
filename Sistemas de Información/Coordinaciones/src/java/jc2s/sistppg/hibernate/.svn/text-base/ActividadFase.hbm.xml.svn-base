@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.ActividadFase" table="ACTIVIDADFASE">
+    <!-- 0 -->
+    <id column="idActividadFase" name="idActividadFase">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="descripcion" name="descripcion" not-null="true" type="text"/>
+    <!-- 2 -->
+    <property column="tiempo_estimado" name="tiempo_estimado" not-null="true" type="text"/>
+    <!-- 3 -->
+    <many-to-one column="fase" name="fase" not-null="true"/>
+  </class>
+</hibernate-mapping>

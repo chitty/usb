@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.Profesor" table="PROFESOR">
+    <!-- 0 -->
+    <id column="idProfesor" name="idProfesor">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="usbid" name="usbid" type="string" unique="true"/>
+    <!-- 2 -->
+    <property column="nombre" name="nombre" not-null="true" type="string"/>
+    <!-- 3 -->
+    <property column="apellido" name="apellido" not-null="true" type="string"/>
+    <!-- 4 -->
+    <property column="cedula" name="cedula" not-null="true" type="string" unique="true"/>
+    <!-- 5 -->
+    <property column="email" name="email" type="string"/>
+    <!-- 6 -->
+    <many-to-one column="departamento" name="departamento" not-null="true"/>
+  </class>
+</hibernate-mapping>

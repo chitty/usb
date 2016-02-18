@@ -1,0 +1,24 @@
+d
+9
+13
+SanRafael 9
+SanFrancisco 10
+PaloAlto 10
+SanJose 20
+SantaCruz 6
+Fremont 12
+Oakland 30
+Berkeley 11
+Sunnyvale 90
+Tren1 SanRafael SanFrancisco 2
+Bus1 SanFrancisco PaloAlto 3
+Bus2 PaloAlto SanJose 5
+Tren2 PaloAlto SanJose 8
+Cola SanFrancisco Berkeley 1
+Bus3 Berkeley SanRafael 5
+Bus4 Berkeley Oakland 3
+Bus5 Berkeley Sunnyvale 4
+Tren3 Sunnyvale SantaCruz 3
+Bus6 Oakland Fremont 1
+Avion2 Fremont SantaCruz 9
+Avion3 SanJose SantaCruz 10

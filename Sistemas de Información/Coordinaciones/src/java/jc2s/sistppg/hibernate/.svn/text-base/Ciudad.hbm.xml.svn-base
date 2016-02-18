@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.Ciudad" table="CIUDAD">
+    <!-- 0 -->
+    <id column="idCiudad" name="idCiudad">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="nombre" name="nombre" not-null="true" type="string" unique="true"/>
+    <!-- 2 -->
+    <many-to-one column="pais" name="pais" not-null="true"/>
+  </class>
+</hibernate-mapping>

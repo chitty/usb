@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.CiudadPreinscripcion" table="CIUDADPREINSCRIPCION">
+    <!-- 0 -->
+    <id column="idCiudadPreinscripcion" name="idCiudadPreinscripcion">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <many-to-one column="ciudad" name="ciudad" not-null="true"/>
+    <!-- 2 -->
+    <many-to-one column="preinscripcion" name="preinscripcion" not-null="true"/>
+  </class>
+</hibernate-mapping>

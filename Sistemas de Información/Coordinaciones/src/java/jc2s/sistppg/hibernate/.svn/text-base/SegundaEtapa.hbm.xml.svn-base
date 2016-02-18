@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.SegundaEtapa" table="SEGUNDAETAPA">
+    <!-- 0 -->
+    <id column="idSegundaEtapa" name="idSegundaEtapa">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="descripcion_topicos" name="descripcion_topicos" not-null="true" type="text"/>
+    <!-- 2 -->
+    <many-to-one column="etapa" name="etapa" not-null="true"/>
+  </class>
+</hibernate-mapping>

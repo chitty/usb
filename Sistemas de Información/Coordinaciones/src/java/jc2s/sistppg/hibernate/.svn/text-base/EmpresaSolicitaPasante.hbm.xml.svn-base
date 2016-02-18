@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.EmpresaSolicitaPasante" table="EMPRESASOLICITAPASANTE">
+    <!-- 0 -->
+    <id column="idEmpresaSolicitaPasante" name="idEmpresaSolicitaPasante">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <many-to-one column="empresa" name="empresa" not-null="true"/>
+    <!-- 2 -->
+    <many-to-one column="carrera" name="carrera" not-null="true"/>
+    <!-- 3 -->
+    <property column="created_at" name="created_at" not-null="true" type="timestamp"/>
+  </class>
+</hibernate-mapping>

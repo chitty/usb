@@ -1,0 +1,24 @@
+n
+11
+9
+Limerick 0
+Dublin 0
+Cork 0
+Manchester 0
+Nottingham 0
+London 0
+Zaragoza 0
+Barcelona 0
+Madrid 0
+Valencia 0
+Sevilla 0
+LiCo Limerick Cork 0
+DuCo Dublin Cork 0
+ManNo Manchester Nottingham 0
+LoNo Nottingham London 0
+ZaBa Zaragoza Barcelona 0
+BaVa Barcelona Valencia 0
+MaBa Madrid Barcelona 0
+MaVa Madrid Valencia 0
+SeMa Sevilla Madrid 0
+

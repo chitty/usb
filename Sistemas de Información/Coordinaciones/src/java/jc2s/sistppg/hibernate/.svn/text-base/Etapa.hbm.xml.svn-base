@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.Etapa" table="ETAPA">
+    <!-- 0 -->
+    <id column="idEtapa" name="idEtapa">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="nombre" name="nombre" not-null="true" type="string"/>
+    <!-- 2 -->
+    <property column="resultados_minimos" name="resultados_minimos" not-null="true" type="text"/>
+    <!-- 3 -->
+    <many-to-one column="trimestre" name="trimestre" not-null="true"/>
+    <!-- 4 -->
+    <property column="ano" name="ano" not-null="true" type="integer"/>
+    <!-- 5 -->
+    <many-to-one column="proyecto_de_grado" name="proyecto_de_grado" not-null="true"/>
+    <!-- 6 -->
+    <set cascade="all, delete-orphan" fetch="subselect" inverse="true" name="actividades">
+      <key column="etapa"/>
+      <one-to-many class="jc2s.sistppg.hibernate.Actividad"/>
+    </set>
+  </class>
+</hibernate-mapping>

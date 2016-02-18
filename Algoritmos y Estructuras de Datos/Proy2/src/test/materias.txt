@@ -1,0 +1,45 @@
+d
+21
+20
+Logica 0
+AlgoritmosI 0
+MateIV 0
+DiscretasI 0
+AlgoritmosII 0
+MateV 0
+DiscretasII 0
+AlgoritmosIII 0
+Organizacion 0
+Calculo 0
+Probabilidad 0 
+DiscretasIII 0
+Lenguajes 0
+BaseDeDatos 0
+SistemasDeOperacion 0
+InvestigacionDeOperaciones 0
+Estadistica 0
+Traductores 0
+SistemasDeInformacion 0
+Redes 0
+Interfaces 0
+r1 Logica DiscretasI 0
+r2 Logica AlgoritmosII 0
+r3 AlgoritmosI AlgoritmosII 0
+r4 MateIV MateV 0
+r5 DiscretasI DiscretasII 0
+r6 DiscretasI AlgoritmosIII 0
+r7 AlgoritmosII AlgoritmosIII 0
+r8 AlgoritmosII Organizacion 0
+r9 MateV Calculo 0
+r10 MateV Probabilidad 0
+r11 DiscretasII DiscretasIII 0
+r12 AlgoritmosIII Lenguajes 0
+r13 AlgoritmosIII BaseDeDatos 0
+r14 Organizacion SistemasDeOperacion 0
+r15 Calculo InvestigacionDeOperaciones 0
+r16 Probabilidad Estadistica 0
+r17 DiscretasIII Traductores 0
+r18 BaseDeDatos SistemasDeInformacion 0
+r19 SistemasDeOperacion Redes 0
+r20 SistemasDeOperacion Interfaces 0
+

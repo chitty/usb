@@ -1,0 +1,7 @@
+#
+# shell script para difu
+#
+#! /bin/bash
+
+java difu $*
+exit 0

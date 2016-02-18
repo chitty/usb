@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/148/sistppg70/src/java/jc2s/sistppg/hibernate
+END
+PasantiaIntermedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/PasantiaIntermedia.java
+END
+Trimestre.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Trimestre.hbm.xml
+END
+PaisPreinscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/PaisPreinscripcion.java
+END
+Proyecto.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Proyecto.java
+END
+AreaProyectoDeGrado.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/AreaProyectoDeGrado.hbm.xml
+END
+PasantiaLarga.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/PasantiaLarga.java
+END
+EstatusPasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/EstatusPasantia.java
+END
+PrimeraEtapa.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/PrimeraEtapa.java
+END
+TutorIndustrial.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/TutorIndustrial.java
+END
+DepartamentoArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/DepartamentoArea.java
+END
+Actividad.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Actividad.hbm.xml
+END
+PeriodoPasantiaLarga.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/PeriodoPasantiaLarga.hbm.xml
+END
+CiudadPreinscripcion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/CiudadPreinscripcion.hbm.xml
+END
+EstudianteRealizaProyecto.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/EstudianteRealizaProyecto.hbm.xml
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Usuario.java
+END
+Proyecto.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Proyecto.hbm.xml
+END
+PaisPreinscripcion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/PaisPreinscripcion.hbm.xml
+END
+Estudiante.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/137/sistppg70/src/java/jc2s/sistppg/hibernate/Estudiante.hbm.xml
+END
+PeriodoPasantiaLarga.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/PeriodoPasantiaLarga.java
+END
+Etapa.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Etapa.java
+END
+Prorroga.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/104/sistppg70/src/java/jc2s/sistppg/hibernate/Prorroga.java
+END
+Pais.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Pais.java
+END
+TutorIndustrial.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/TutorIndustrial.hbm.xml
+END
+DepartamentoArea.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/DepartamentoArea.hbm.xml
+END
+TerceraEtapa.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/TerceraEtapa.java
+END
+CiudadPreinscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/CiudadPreinscripcion.java
+END
+Fase.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Fase.hbm.xml
+END
+Carrera.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Carrera.hbm.xml
+END
+Estudiante.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/sistppg70/src/java/jc2s/sistppg/hibernate/Estudiante.java
+END
+Departamento.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Departamento.hbm.xml
+END
+DocumentosRequeridos.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/DocumentosRequeridos.hbm.xml
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Area.java
+END
+PasantiaCorta.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/PasantiaCorta.hbm.xml
+END
+Trimestre.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Trimestre.java
+END
+ProyectoDeGrado.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/ProyectoDeGrado.hbm.xml
+END
+Pais.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Pais.hbm.xml
+END
+TerceraEtapa.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/TerceraEtapa.hbm.xml
+END
+ProrrogaEvaluacion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/104/sistppg70/src/java/jc2s/sistppg/hibernate/ProrrogaEvaluacion.hbm.xml
+END
+Preinscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/hibernate/Preinscripcion.java
+END
+ActividadFase.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/107/sistppg70/src/java/jc2s/sistppg/hibernate/ActividadFase.java
+END
+PasantiaCorta.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/PasantiaCorta.java
+END
+PasantiaLarga.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/PasantiaLarga.hbm.xml
+END
+Area.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Area.hbm.xml
+END
+Empresa.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/hibernate/Empresa.java
+END
+ProrrogaInscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/ProrrogaInscripcion.java
+END
+JuradoProyecto.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/JuradoProyecto.hbm.xml
+END
+Profesor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Profesor.java
+END
+EstudianteRealizaProyecto.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/EstudianteRealizaProyecto.java
+END
+EstatusProrroga.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/EstatusProrroga.java
+END
+JuradoProyecto.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/JuradoProyecto.java
+END
+Usuario.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Usuario.hbm.xml
+END
+Fase.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/sistppg70/src/java/jc2s/sistppg/hibernate/Fase.java
+END
+Prorroga.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/104/sistppg70/src/java/jc2s/sistppg/hibernate/Prorroga.hbm.xml
+END
+Empresa.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/hibernate/Empresa.hbm.xml
+END
+ProrrogaInscripcion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/ProrrogaInscripcion.hbm.xml
+END
+AreaProyectoDeGrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/AreaProyectoDeGrado.java
+END
+PeriodoPasantiaIntermedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/PeriodoPasantiaIntermedia.java
+END
+SegundaEtapa.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/SegundaEtapa.hbm.xml
+END
+PasantiaIntermedia.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/PasantiaIntermedia.hbm.xml
+END
+AreaProfesor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/AreaProfesor.java
+END
+EstatusProrroga.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/EstatusProrroga.hbm.xml
+END
+ProyectoDeGrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/ProyectoDeGrado.java
+END
+PrimeraEtapa.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/PrimeraEtapa.hbm.xml
+END
+Pasantia.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/148/sistppg70/src/java/jc2s/sistppg/hibernate/Pasantia.java
+END
+EmpresaSolicitaPasante.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/EmpresaSolicitaPasante.java
+END
+SegundaEtapa.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/SegundaEtapa.java
+END
+ProrrogaEvaluacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/104/sistppg70/src/java/jc2s/sistppg/hibernate/ProrrogaEvaluacion.java
+END
+PeriodoPasantiaIntermedia.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/PeriodoPasantiaIntermedia.hbm.xml
+END
+Preinscripcion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/sistppg70/src/java/jc2s/sistppg/hibernate/Preinscripcion.hbm.xml
+END
+ActividadFase.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/107/sistppg70/src/java/jc2s/sistppg/hibernate/ActividadFase.hbm.xml
+END
+AreaProfesor.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/AreaProfesor.hbm.xml
+END
+Ciudad.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Ciudad.hbm.xml
+END
+Etapa.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Etapa.hbm.xml
+END
+Carrera.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Carrera.java
+END
+DocumentosRequeridos.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/DocumentosRequeridos.java
+END
+Profesor.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/Profesor.hbm.xml
+END
+Departamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Departamento.java
+END
+Pasantia.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/148/sistppg70/src/java/jc2s/sistppg/hibernate/Pasantia.hbm.xml
+END
+EmpresaSolicitaPasante.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/EmpresaSolicitaPasante.hbm.xml
+END
+Actividad.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Actividad.java
+END
+Ciudad.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/61/sistppg70/src/java/jc2s/sistppg/hibernate/Ciudad.java
+END
+EstatusPasantia.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/88/sistppg70/src/java/jc2s/sistppg/hibernate/EstatusPasantia.hbm.xml
+END

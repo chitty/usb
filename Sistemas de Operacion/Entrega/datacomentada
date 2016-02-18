@@ -1,0 +1,26 @@
+/* Archivo texto que contiene la descripción de una partición. Debe suprimir los comentarios para usarlo como entrada del programa que genera las particiones */ 
+
+
+2 15 // Identificador del usuario y tamano del archivo representado en Kb (suponga siempre que es un entero)
+3    // Número de bloques lógicos del archivo
+0    // Primer bloque lógico.
+3    // Segundo bloque lógico
+4    // Último bloque lógico del archivo.
+3 5  // Datos del Inodo 1, el user Id es 3 y el tamaño es 5K
+1    // Sólo un bloque lógico que es el 1. 
+1
+4 25 // Informacion del tercer Inodo
+5
+2 
+5 
+6 
+7 
+10
+10 5
+1
+8
+11 15
+3
+11
+12
+15

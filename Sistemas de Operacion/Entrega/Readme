@@ -1,0 +1,22 @@
+El archivo createpart.c contiene el código para crear una partición (archivo binario) a 
+partir de una descripción dada en un archivo de texto (ejemplo: archivo data). 
+
+El significado de los números que están en el archivo data se encuentra en el archivo
+datacomentada. 
+
+Utilizando el Makefile puede compilar y generar el ejecutable "createpart". Un
+ejemplo de ejecución es el siguiente:
+
+$ createpart 100000 10 data salida
+
+donde: 
+
+10000 es el tamaño en bytes de la partición (tiene que ser suficiente para almacenar los bloques especificados en data y el total de Inodos). Con 10 Inodos, el tamaño del área de Inodos es de 160 bytes, quedando un total de 99840 bytes para bloques de datos. Si este espacio se divide entre BLOCKSIZE (5120), se pueden crear en la partición 19 bloques de datos.  
+
+10 Es el total de inodos de la partición, es decir es el número total de archivos que puede almacenar. 
+
+data: describe los archivos que contiene la partición. De cada archivo se provee el user id, el tamaño, el número de bloques y su orden. Otra información como el tipo de archivo o la fecha de creación se coloca en el .c, igual para todos los archivos. Esto se hizo así por simplicidad. 
+
+salida: es un archivo binario que representa la partición. 
+
+En el codigo fuente hay comentarios para todas las funciones.   

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="jc2s.sistppg.hibernate.Fase" table="FASE">
+    <!-- 0 -->
+    <id column="idFase" name="idFase">
+      <generator class="native"/>
+    </id>
+    <!-- 1 -->
+    <property column="objetivos_especificos" name="objetivos_especificos" not-null="true" type="text"/>
+    <!-- 2 -->
+    <set cascade="all, delete-orphan" fetch="subselect" inverse="true" name="actividades">
+      <key column="fase"/>
+      <one-to-many class="jc2s.sistppg.hibernate.ActividadFase"/>
+    </set>
+    <!-- 3 -->
+    <many-to-one column="pasantia" name="pasantia" not-null="true"/>
+  </class>
+</hibernate-mapping>
